@@ -1,5 +1,7 @@
-body {
-    background-image: url("/img/background.jpg") no-repeat center center fixed;
+header {
+    width: 100%;
+    height: 20em;
+    background-image: url("/img/background.jpg");
     -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
